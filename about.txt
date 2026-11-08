@@ -1,0 +1,3 @@
+Project Name: Collaborative Git
+Purpose: Learning Git Push and Pull Operations.
+Created by: Student A and Student B.
